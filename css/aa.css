@@ -1,0 +1,81 @@
+.box {
+  width: 300px;
+  height: 300px;
+  background: red;
+  color: green; }
+
+.son {
+  width: 200px;
+  height: 200px; }
+
+.div {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto; }
+
+.p {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -100px;
+  color: #00bf00; }
+
+.col-1 {
+  width: 9.09091%; }
+
+.col-2 {
+  width: 18.18182%; }
+
+.col-3 {
+  width: 27.27273%; }
+
+.col-4 {
+  width: 36.36364%; }
+
+.col-5 {
+  width: 45.45455%; }
+
+.col-6 {
+  width: 54.54545%; }
+
+.col-7 {
+  width: 63.63636%; }
+
+.col-8 {
+  width: 72.72727%; }
+
+.col-9 {
+  width: 81.81818%; }
+
+.col-10 {
+  width: 90.90909%; }
+
+.col-11 {
+  width: 100%; }
+
+.l1 {
+  background: url("../image/l1.png"); }
+
+.l2 {
+  background: url("../image/l2.png"); }
+
+.l3 {
+  background: url("../image/l3.png"); }
+
+.l4 {
+  background: url("../image/l4.png"); }
+
+.l5 {
+  background: url("../image/l5.png"); }
+
+.l6 {
+  background: url("../image/l6.png"); }
+
+.l7 {
+  background: url("../image/l7.png"); }
+
+.l8 {
+  background: url("../image/l8.png"); }
